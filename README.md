@@ -1,7 +1,7 @@
 ### Olá pessoal! 👋
 
 <br>
-<p>☆ Sou estudante de Análise e Desenvolvimento de Sistemas e estou buscando um estágio, ou emprego na área.</p>
+<p>☆ Sou estudante de Análise e Desenvolvimento de Sistemas e estou buscando um estágio ou emprego na área.</p>
 <p>☆ Estudando HTML, CSS e Javascript.</p>
 <p>☆ Pronomes: ela/dela.</p>
 
